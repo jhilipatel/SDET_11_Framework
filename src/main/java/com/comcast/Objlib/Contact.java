@@ -19,4 +19,9 @@ public class Contact
 	{
 		
 	}
+	
+	public void Organozation()
+	{
+		System.out.println("Organization");
+	}
 }
